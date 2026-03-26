@@ -4,6 +4,8 @@ An AI-powered commerce agent that turns natural-language requests into policy-co
 
 > **Built with Next.js 14, TypeScript, and Tailwind CSS. Supports Base, Polygon, Solana, and Ethereum.**
 
+**[Read the full documentation](https://vaibhavkapur22.github.io/Agentic-Commerce-Stablecoin-Checkout/)**
+
 ## Getting Started
 
 ```bash
